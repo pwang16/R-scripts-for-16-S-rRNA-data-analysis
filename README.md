@@ -9,4 +9,4 @@ The R codes to do this lind of analysis include:
 (1) alpha diveristy analysis – within samples diversity
 (2) Nonparameter statistical analysis for alpha diveristy
 (3) Canonical Analysis of Principal Components (CAP) analysis – a kind of beta diveristy to measure the difference between groups. This is a very useful tool based on the model. We can focus on the factor that we are interesting and simultaneously remove the effect from other factors.
-(4) 
+(4) Permutational multivariate analysis of variance (PERMANOVA). This R function can be used for testing the significance for beta-diversity analysis.
